@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.log
+*.pdf
+*.zip
+HTML-20260924T183344Z-1-001/
+.DS_Store
+.env
+.env.*
+!.env.example
